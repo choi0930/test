@@ -1,0 +1,38 @@
+@charset "UTF-8";
+*{
+		margin: 0px;
+		padding: 0px;
+	}
+	#main{
+		width: 400px;
+		margin: 0 auto;
+	}
+	#main2{
+		text-align: center;
+		margin-top: 70px;
+	}
+	p{
+		font-weight: bold;
+		font-size: 40px;
+	}
+	#main_text{	
+
+		border-bottom: 2px solid black;
+		margin-bottom: 20px;
+	}
+	
+	.in {
+	height:30px;
+	}
+	button{
+	margin:10px 0 10px 0 ;
+	width: 240px;
+	height: 30px;
+	}
+	a, a:visited {
+	text-decoration:none;
+	color:black;
+	}
+	a:hover, a:active {
+	color:red;
+	}

@@ -1,0 +1,44 @@
+@charset "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	margin-bottom: 10px;
+}
+body{
+	font-size: 14px;
+}
+span #password_text{
+	font-size: 7px;
+}
+.label_span{
+	color:red;
+}
+#main2 {
+	margin-left: 50px;
+}
+#next{
+	width:50px;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+h1 {
+	font-size: 35px;
+}
+table{
+	margin-bottom: 10px;
+}
+#address_button {
+	height:26px;
+	margin-left: 10px;
+}
+select{
+	height: 26px;
+}
+tr{
+	height: 30px;
+}
+input{
+	height: 24px;
+}
